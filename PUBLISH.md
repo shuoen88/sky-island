@@ -1,5 +1,7 @@
 # GitHub 發布
 
+已發布（2026-10-22）：[遊玩空中之島](https://shuoen88.github.io/sky-island/) · [GitHub repo](https://github.com/shuoen88/sky-island)。
+
 本資料夾可獨立放在 `sky-island` repo 根目錄。`index.html`、所有 JavaScript、CSS，以及 `vendor/` 必須一起上傳，並保留資料夾結構；只上傳 ZIP 不會成為可遊玩的網站。
 
 GitHub Pages 使用 `main` 分支的根目錄（`/ (root)`）作為發布來源。`.nojekyll` 停用 Jekyll，讓網站直接提供現有靜態檔案，不需要建置工具。

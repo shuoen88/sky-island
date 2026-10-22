@@ -1,6 +1,8 @@
 # 空中之島｜中央大廳與風行跑酷
 
-GitHub 原始碼：[shuoen88/sky-island](https://github.com/shuoen88/sky-island)。線上遊玩網址將於 GitHub Pages 完成發布後補上。
+**線上遊玩：[空中之島](https://shuoen88.github.io/sky-island/)** · GitHub 原始碼：[shuoen88/sky-island](https://github.com/shuoen88/sky-island)
+
+已發布至 GitHub Pages。建議以電腦 Chrome／Edge 遊玩；內建瀏覽器可選「不鎖定滑鼠遊玩」。線上版與原本機檔案的瀏覽器存檔各自獨立，原本存檔仍保留在原來源。
 
 直接雙擊此資料夾的 **index.html**，使用電腦版 Chrome 或 Edge 開啟。按「開始探索」即可進入；滑鼠鎖定失敗也會以免鎖定模式遊玩。內建瀏覽器可直接按「不鎖定滑鼠遊玩」。Esc 可暫停並釋放滑鼠。所有執行資源均附在資料夾內，不需安裝、伺服器或網路。
 
